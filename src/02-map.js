@@ -45,7 +45,7 @@ function getTitleAndArtist(songs) {
   });
 }
 
-console.log(getTitleAndArtist(exampleSongData));
+// console.log(getTitleAndArtist(exampleSongData));
 
 module.exports = {
   getSongTitles,
